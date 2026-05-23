@@ -1,6 +1,10 @@
 ﻿![banner](images/banner.png)
 
-## 📖 README.md
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="images/character_light.png">
+  <source media="(prefers-color-scheme: dark)"  srcset="images/character_dark.png">
+  <img alt="Character" src="images/character_light.png" align="right" width="140">
+</picture>
 
 - 🌐 EN / 中文
 - 👤 Pronunciation: /stiːv ɕy/. You can also call me "什五 (shí wǔ or シーゴ)".
