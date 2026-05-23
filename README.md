@@ -10,8 +10,26 @@
 - 👤 Pronunciation: /stiːv ɕy/. You can also call me "什五 (shí wǔ or シーゴ)".
 - 🎨 I'm an amateur creator. I draw something and make video sometime.
 - 💾 Sometimes I write code. Currently in production: [Quanto Flx](https://github.com/stevehsudrawing/quantoflx)
-- 🔗 Me on other platforms: [Steve Hsu's Link-Hub](https://stevehsudrawing.github.io/)
+- 🤔 I want to create more, code more and sleep more.
 
 ---
 
-<div align="center">Thanks for your visiting!</div>
+<div align="right">
+  <a href="https://x.com/stevehsudrawing">
+    <img alt="X" src="images/x_twitter.png" width="30">
+  </a>
+  <a href="https://www.pixiv.net/users/70732361">
+    <img alt="Pixiv" src="images/pixiv.png" width="30">
+  </a>
+  <a href="https://www.deviantart.com/stevehsudrawing">
+    <img alt="DeviantArt" src="images/deviant_art.png" width="30">
+  </a>
+  <a href="https://space.bilibili.com/298733903">
+    <img alt="Bilibili" src="images/bilibili.png" width="30">
+  </a>
+  <a href="https://stevehsudrawing.github.io/">
+    <img alt="Link-Hub" src="images/link_hub.png" width="30">
+  </a>
+  <br>
+  Thanks for your visiting!
+</div>
