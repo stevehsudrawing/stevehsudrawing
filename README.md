@@ -7,9 +7,9 @@
 </picture>
 
 - 🌐 EN / 中文
-- 👤 Pronunciation: /stiːv ɕy/. You can also call me "什五 (shí wǔ or シーゴ)".
+- 👤 Pronunciation: /stiːv ɕy/. You can also call me "什五 (shí wǔ or ジュウゴ)".
 - 🎨 I'm an amateur creator. I draw something and make video sometimes.
-- 💾 Sometimes I write code. Currently in production: [Quanto Flx](https://github.com/stevehsudrawing/quantoflx)
+- 💾 Sometimes I code. Currently in production: [Quanto Series](https://stevehsudrawing.github.io/softwares.html#quanto-series)
 - 🤔 I want to create more, code more and sleep more.
 
 ---
