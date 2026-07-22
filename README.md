@@ -3,7 +3,7 @@
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="images/stickers/thumb-light.png">
     <source media="(prefers-color-scheme: dark)"  srcset="images/stickers/thumb-dark.png">
-    <img alt="Character" src="images/stickers/thumb-light.png" align="right" width="130">
+    <img alt="Character" src="images/stickers/thumb-light.png" align="right" width="120">
 </picture>
 
 - 🌐 中文 / English
@@ -12,7 +12,7 @@
 - 🖌 I'm an amateur creator. I draw something and make video sometimes.
 - 💾 Sometimes I code. Currently in production: [Quanto Series](https://stevehsudrawing.github.io/softwares.html#quanto-series)
 - 🤔 I want to create more, code more and sleep more.
-- 🎨 My major color: <span style="color: #47c4ee;">█</span> `#47c4ee`, <span style="color: #3c96ff;">█</span> `#3c96ff`
+- 🎨 My major color: `#47c4ee`, `#3c96ff`
 
 ---
 
