@@ -1,7 +1,7 @@
 # Copyright Notice - Original Artworks
 
 **Author:** Steve Hsu (什五) \
-**Last updated:** 2026-07-22
+**Last updated:** 2026-07-30
 
 ---
 
@@ -12,10 +12,10 @@ All files listed in this section are **original artworks** created by me, Steve 
 ### 1.1 Restricted Works - All Rights Reserved
 
 | Path / Pattern        | Description                                         |
-|-----------------------|-----------------------------------------------------|
-| `banner.png`          | Profile banner                                      |
-| `icons/steve-hsu.png` | My personal signature                               |
-| `stickers/*`          | All sticker artwork files in the stickers directory |
+| --------------------- | --------------------------------------------------- |
+| `*/banner.*`          | Profile banner                                      |
+| `*/icons/steve-hsu.*` | My personal signature                               |
+| `*/stickers/*`        | All sticker artwork files in the stickers directory |
 
 These works are provided **for display purposes only** on this website. The following actions are **strictly prohibited** without my prior written permission:
 
