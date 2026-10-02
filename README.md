@@ -18,46 +18,50 @@
   <source
     type="image/avif"
     media="(prefers-color-scheme: light)"
-    srcset="images/avif/stickers/thumb-light.avif"
+    srcset="images/avif/stickers/thumb-up-light.avif"
   >
   <source
     type="image/avif"
     media="(prefers-color-scheme: dark)"
-    srcset="images/avif/stickers/thumb-dark.avif"
+    srcset="images/avif/stickers/thumb-up-dark.avif"
   >
   <source
     type="image/webp"
     media="(prefers-color-scheme: light)"
-    srcset="images/webp/stickers/thumb-light.webp"
+    srcset="images/webp/stickers/thumb-up-light.webp"
   >
   <source
     type="image/webp"
     media="(prefers-color-scheme: dark)"
-    srcset="images/webp/stickers/thumb-dark.webp"
+    srcset="images/webp/stickers/thumb-up-dark.webp"
   >
   <source
     type="image/jpeg"
     media="(prefers-color-scheme: light)"
-    srcset="images/jpg/stickers/thumb-light.jpg"
+    srcset="images/jpg/stickers/thumb-up-light.jpg"
   >
   <source
     type="image/jpeg"
     media="(prefers-color-scheme: dark)"
-    srcset="images/jpg/stickers/thumb-dark.jpg"
+    srcset="images/jpg/stickers/thumb-up-dark.jpg"
   >
   <img
     alt="Character"
-    src="images/jpg/stickers/thumb-light.jpg"
+    src="images/jpg/stickers/thumb-up-light.jpg"
     align="right"
     width="120"
   >
 </picture>
 
 - 🌐 中文 / English
-- 🗣 Pronunciation: /stiːv ɕy/. You can also call me "什五 (shí wǔ, ㄕˊ ㄨˇ or ジュウゴ)".
+- 🗣 Pronunciation: /stiːv ɕy/. You can also call me "什五 (shí
+  wǔ, ㄕˊ ㄨˇ or ジュウゴ)".
 - 👤 He/Him. Virgo. MBTI personality: ISTP.
 - 🖌 I'm an amateur creator. I draw something and make video sometimes.
-- 💾 Sometimes I code. Currently in production: [Quanto Series](https://stevehsudrawing.github.io/softwares.html#quanto-series)
+- 💾 Sometimes I code. Currently in production:
+  [skinview3d-etf](https://github.com/stevehsudrawing/skinview3d-etf),
+  [etf-skin-decoder](https://github.com/stevehsudrawing/etf-skin-decoder),
+  [Quanto Series](https://stevehsudrawing.github.io/softwares.html#quanto-series)
 - 🤔 I want to create more, code more and sleep more.
 - 🎨 My major color: `#47c4ee`, `#3c96ff`
 
