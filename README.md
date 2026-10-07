@@ -57,13 +57,14 @@
 - 🗣 Pronunciation: /stiːv ɕy/. You can also call me "什五 (shí
   wǔ, ㄕˊ ㄨˇ or ジュウゴ)".
 - 👤 He/Him. Virgo. MBTI personality: ISTP.
-- 🖌 I'm an amateur creator. I draw something and make video sometimes.
+- 🖌 I'm an amateur creator. I draw and make videos sometimes.
 - 💾 Sometimes I code. Currently in production:
   [skinview3d-etf](https://github.com/stevehsudrawing/skinview3d-etf),
   [etf-skin-decoder](https://github.com/stevehsudrawing/etf-skin-decoder),
   [Quanto Series](https://stevehsudrawing.github.io/softwares.html#quanto-series)
-- 🤔 I want to create more, code more and sleep more.
-- 🎨 My major color: `#47c4ee`, `#3c96ff`
+- 🤔 I want to create more, code more, and sleep more.
+- 🎨 My major color: ![Palette 47c4ee](/images/png/palette/47c4ee.png)
+  `#47c4ee`, ![Palette 3c96ff](/images/png/palette/3c96ff.png) `#3c96ff`
 
 ---
 
