@@ -8,7 +8,8 @@
     srcset="images/webp/banner.webp"
   >
   <img
-    alt="Banner"
+    title="Official Illustration (v2026)"
+    alt="Steve Hsu (什五) holds up a sword amid blue holographic servers and computer-vision boxes, with Kato floating nearby. "
     src="images/jpg/banner.jpg"
     width="1920"
   >
@@ -46,7 +47,8 @@
     srcset="images/jpg/stickers/thumb-up-dark.jpg"
   >
   <img
-    alt="Character"
+    title="Sticker (Thumb)"
+    alt="A chibi sticker of Steve Hsu (什五) winking and giving a thumbs-up. "
     src="images/jpg/stickers/thumb-up-light.jpg"
     align="right"
     width="120"
@@ -54,17 +56,14 @@
 </picture>
 
 - 🌐 中文 / English
-- 🗣 Pronunciation: /stiːv ɕy/. You can also call me "什五 (shí
-  wǔ, ㄕˊ ㄨˇ or ジュウゴ)".
+- 🗣 Pronunciation: /stiːv ɕy/. a.k.a. "什五 (shí wǔ, ㄕˊ ㄨˇ or ジュウゴ)".
 - 👤 He/Him. Virgo. MBTI personality: ISTP.
 - 🖌 I'm an amateur creator. I draw and make videos sometimes.
 - 💾 Sometimes I code. Currently in production:
   [skinview3d-etf](https://github.com/stevehsudrawing/skinview3d-etf),
-  [etf-skin-decoder](https://github.com/stevehsudrawing/etf-skin-decoder),
-  [Quanto Series](https://stevehsudrawing.github.io/softwares.html#quanto-series)
+  [etf-skin-decoder](https://github.com/stevehsudrawing/etf-skin-decoder)
 - 🤔 I want to create more, code more, and sleep more.
-- 🎨 My major color: ![Palette 47c4ee](/images/png/palette/47c4ee.png)
-  `#47c4ee`, ![Palette 3c96ff](/images/png/palette/3c96ff.png) `#3c96ff`
+- 🎨 My major color: ![Palette 47c4ee](/images/png/palette/47c4ee.png) `#47c4ee`
 
 ---
 
@@ -80,7 +79,7 @@
         srcset="images/webp/icons/x-twitter.webp"
       >
       <img
-        alt="X"
+        title="X"
         src="images/png/icons/x-twitter.png"
         width="30"
       >
@@ -97,7 +96,7 @@
         srcset="images/webp/icons/pixiv.webp"
       >
       <img
-        alt="Pixiv"
+        title="Pixiv"
         src="images/png/icons/pixiv.png"
         width="30"
       >
@@ -114,7 +113,7 @@
         srcset="images/webp/icons/deviant-art.webp"
       >
       <img
-        alt="DeviantArt"
+        title="DeviantArt"
         src="images/png/icons/deviant-art.png"
         width="30"
       >
@@ -131,13 +130,13 @@
         srcset="images/webp/icons/bilibili.webp"
       >
       <img
-        alt="Bilibili"
+        title="Bilibili"
         src="images/png/icons/bilibili.png"
         width="30"
       >
     </picture>
   </a>
-  <a href="https://stevehsudrawing.github.io/">
+  <a href="https://stevehsu.link/">
     <picture>
       <source
         type="image/avif"
@@ -148,12 +147,29 @@
         srcset="images/webp/icons/steve-hsu.webp"
       >
       <img
-        alt="Link-Hub"
+        title="Link-Hub"
         src="images/png/icons/steve-hsu.png"
         width="30"
       >
     </picture>
   </a>
+  <a href="https://stevehsu.link/articles">
+    <picture>
+      <source
+        type="image/avif"
+        srcset="images/avif/icons/articles.avif"
+      >
+      <source
+        type="image/webp"
+        srcset="images/webp/icons/articles.webp"
+      >
+      <img
+        title="Articles"
+        src="images/png/icons/articles.png"
+        width="30"
+      >
+    </picture>
+  </a>
   <br>
-  Thanks for your visiting!
+  <small>Thanks for your visiting!</small>
 </div>
