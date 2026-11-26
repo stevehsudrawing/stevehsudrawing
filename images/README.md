@@ -24,13 +24,10 @@ matches within one path segment) and are relative to this `images/` folder.
 
 These are the **restricted works** of the
 [_受限艺术作品授权协议 (Restricted Artworks License)_](https://stevehsu.link/articles/zh-hans/licenses/restricted-artworks/):
-they are published on this site for display only, and all rights are reserved.
-That license states what is permitted, what is prohibited, how a derivative work
-is authorised and how to ask for permission, and it governs this tier.
-
-The table above is this site's inventory of the tier, not a statement of terms.
-A file listed in neither §1.1 nor §1.2 is not one of my original works, and §1.3
-applies to it.
+they are published on this profile for display only, and all rights are
+reserved. That license states what is permitted, what is prohibited, how a
+derivative work is authorized and how to ask for permission, and it governs this
+tier.
 
 ### 1.2 Other Files
 
